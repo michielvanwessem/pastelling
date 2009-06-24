@@ -40,7 +40,7 @@ my $ua = LWP::UserAgent->new ||die "cannot create user agent";
 
 my $req = POST 'http://pastebin.slackadelic.com/paste.php',
    [ lang => 'Plain Text',
-     nick => 'Michiel',
+     nick => 'slackware-user',
      desc => 'paste',
      cvt_tabs => 'No',
      text => $buf, ];
