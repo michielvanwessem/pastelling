@@ -1,2 +1,16 @@
-Perl Paster - A script to paste text to rafb.net/paste
+Perl Paster - A script to paste text to pastebin.slackadelic.com 
+              (which used the same code as rafb.net/paste)
+
+Usage:
+1 - git clone git://github.com/michielvw/pastelling.git
+2 - copy the pastelling script either into directory of your path
+3 - set the script to be executable.
+4 - change the value of $nick
+
+    usage could be either: `pastelling "stuff to paste goes here"` or 
+    something like: commands .. | pastelling
+
+
+
+
 Copyright (C) 2006  Steven Robson <steven@gnu.org>
