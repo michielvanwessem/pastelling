@@ -1,0 +1,5 @@
+- Add command line switch to use different type of $desc
+- Add command line switch to use different type of $lang.
+- Add command line switch to use different type of $nick 
+
+Either command line or reading from a config file (think ~/.paste.conf)
