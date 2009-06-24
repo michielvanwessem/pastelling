@@ -5,9 +5,9 @@ Usage:
 0 - You need libwww-perl and dependencies installed for this script
     to work (in order of compilation):
 
-    perl-html-tagset (http://slackbuilds.org/repository/12.2/libraries/perl-html-tagset/)
-    perl-html-parser (http://slackbuilds.org/repository/12.2/libraries/perl-html-parser/)
-    libwww-perl      (http://slackbuilds.org/repository/12.2/libraries/libwww-perl/)
+ perl-html-tagset ( http://slackbuilds.org/repository/12.2/libraries/perl-html-tagset/ )
+ perl-html-parser ( http://slackbuilds.org/repository/12.2/libraries/perl-html-parser/ )
+libwww-perl      ( http://slackbuilds.org/repository/12.2/libraries/libwww-perl/ )
 
 1 - git clone git://github.com/michielvw/pastelling.git
 2 - copy the pastelling script either into directory of your path 
