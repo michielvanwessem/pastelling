@@ -38,7 +38,7 @@ my $buf= wrap('', '', @buffer);
 
 my $ua = LWP::UserAgent->new ||die "cannot create user agent";
 
-my $req = POST 'http://preview.slackadelic.com/paste.php',
+my $req = POST 'http://pastebin.slackadelic.com/paste.php',
    [ lang => 'Plain Text',
      nick => 'Michiel',
      desc => 'paste',
