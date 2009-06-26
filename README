@@ -12,15 +12,19 @@ Usage:
 2 - copy the pastelling script either into directory of your path 
         ie: ~/bin/ or /usr/local/bin
 3 - set the script to be executable.
-4 - change the value of $nick
-5 - Use this to pipe output of commands, such as:
+4 - Use this to pipe output of commands, such as:
 
-        command | pastelling
+        command | pastelling.pl
 
     or to pastebin a file:
         
-        pastelling /path/to/file
+        pastelling.pl /path/to/file
+
+    see also
+        pastelling.pl -h
+
 
 CREDITS:
-    pastelling - Copyright (C) 2006  Steven Robson <steven@gnu.org>
-    Orginally written to paste to rafb.net/paste
+rafb.pl was written by _pragma and is currently hosted at 
+http://code.google.com/p/rafb-pl/
+
