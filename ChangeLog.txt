@@ -1,4 +1,8 @@
+Fri Jun 26 01:27:58 UTC 2009
+Changed codebase over to the one used by rafb.pl as it offers 
+  more features, like multiuser support and auto detecting of language
 +--------------------------+
 Wed Jun 24 21:47:30 UTC 2009
-
+Changed references from rafb.net/paste to http://pastebin.slackadelic.com
+Uploaded StevenR's pastelling.
 
